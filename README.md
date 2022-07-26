@@ -9,7 +9,15 @@ An application that allows users to find a fintech professional, hire and pay th
 ## Usage
 
 
-insert image here
+- My Address Balance
+![ganache_address_balance_tx](https://user-images.githubusercontent.com/97932685/181120638-54149610-d849-46c0-8e62-2ae668cdf2e3.png)
+
+- Transaction Details
+![ganache_transaction_history](https://user-images.githubusercontent.com/97932685/181120742-eaa9b862-7316-44dd-b336-d5fd74a94cde.png)
+
+- Recipient's Address Balance
+![ganache_to_address](https://user-images.githubusercontent.com/97932685/181120777-be97a7e1-6b64-44c7-afce-f7fc8f0dad3d.png)
+
 insert image here
 insert image here
 ---
