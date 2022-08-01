@@ -4,9 +4,35 @@ An application that allows users to find a fintech professional, hire and pay th
 ---
 ## Installation
 
+* [ganache](https://trufflesuite.com/docs/ganache/)
 
---- 
+* [streamlit](https://docs.streamlit.io/library/get-started)
+```
+!pip install streamlit
+```
+
 ## Usage
+
+1. Navigate to the project folder that contains 
+your `.env` file and the `fintech_finder.py` and `crypto_wallet.py` files.
+Be sure to activate your Conda `dev` environment if it is not already active.
+
+2. To launch the Streamlit application,
+type ```streamlit run fintech_finder.py```
+
+3. On the resulting webpage, select a candidate that you would like to hire
+ from the appropriate drop-down menu. Then, enter the number of hours that you
+ would like to hire them for.
+
+4. Click the Send Transaction button to sign and send the transaction with
+ your Ethereum account information. If the transaction is successfully
+ communicated to Ganache, validated, and added to a block,
+ a resulting transaction hash code will be written to the Streamlit
+ application sidebar.
+
+5. Navigate to the Ganache accounts tab and locate your account (index 0).
+
+6. Navigate to the Ganache transactions tab and locate the transaction.
 
 
 - My Address Balance
