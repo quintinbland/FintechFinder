@@ -44,8 +44,6 @@ type ```streamlit run fintech_finder.py```
 - Recipient's Address Balance
 ![ganache_to_address](https://user-images.githubusercontent.com/97932685/181120777-be97a7e1-6b64-44c7-afce-f7fc8f0dad3d.png)
 
-insert image here
-insert image here
 ---
 
 
